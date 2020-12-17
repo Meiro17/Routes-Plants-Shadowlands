@@ -38,4 +38,4 @@ ROUTES:
       HOW TO EDIT ROUTES
       Editar rutas
       
-![](Editar_Rutas)
+![](Editar_Rutas.gif)
