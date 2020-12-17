@@ -20,6 +20,9 @@ STEP 1. Interface -> Addons -> GatherMate 2 -> Import_Option -> Select_Node_Type
 
 STEP 2. "/routes" -> Routes -> Import -> Copy string from Routes file -> Paste in box -> Ok
       
-      //"/routes" -> Routes -> Importar -> Copiar texto del fichero Routes -> Pegar en la caja de texto -> Aceptar
+      //"/routes" -> Rutas -> Importar -> Copiar texto del fichero Routes -> Pegar en la caja de texto -> Aceptar
 
 ![alt text](https://i.gyazo.com/163abab84a5b86cb5ba3e84166b55d8a.png)
+
+IN CASE YOU WANT TO CREATE YOUR OWN ROUTE
+
