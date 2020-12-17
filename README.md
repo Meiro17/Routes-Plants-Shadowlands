@@ -2,7 +2,7 @@
 
 Which addons we need?
 
-//Qué addons necesitamos?
+      //Qué addons necesitamos?
 
 GATHERMATE 2:
 1. https://www.curseforge.com/wow/addons/gathermate2 -> Is an addon to collect and track herbs, mines, fishing pools, gas clouds, archaelogy finds and treasures, and displays them on the world map and the mini map.
