@@ -18,8 +18,7 @@ STEP 1. Interface -> Addons -> GatherMate 2 -> Import_Option -> Select_Node_Type
       
       //Interfaz -> Addons -> GatherMate 2 -> Opción_Importar -> Seleccionar_tipo_de_nodo (Herboristeria, Mineria...) -> Importar
 
-![alt text](https://i.gyazo.com/3e2ed57f08cf482184959d28ba236623.png)
-![](creaate.gif)
+![](Importar_GatherMate.gif)
 
 STEP 2. "/routes" -> Routes -> Import -> Copy string from Routes file -> Paste in box -> Ok
       
