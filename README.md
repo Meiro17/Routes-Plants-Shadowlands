@@ -29,4 +29,10 @@ STEP 2. "/routes" -> Routes -> Import -> Copy string from Routes file -> Paste i
 
 IN CASE YOU WANT TO CREATE YOUR OWN ROUTE
 
+      //Si quieres crear tu propia ruta
+      
+Anyway I recommend you to import GatherMate nodes
+
+      //Igualmente te recomiendo importar los nodos de GatherMate
+
 ![alt text](https://i.gyazo.com/49e86f4863ff6a97b4d98fe611a19a22.png)
