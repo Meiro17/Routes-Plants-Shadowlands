@@ -21,7 +21,7 @@ ROUTES:
       STEP 2. "/routes" -> Routes -> Import -> Copy string from Routes file -> Paste in box -> Ok
               "/routes" -> Rutas -> Importar -> Copiar texto del fichero Routes -> Pegar en la caja de texto -> Aceptar
       
-![](creaate.gif)
+![](Importar_Rutas.gif)
 
 ********************************************************************************************************************************************************************************
 
