@@ -40,4 +40,8 @@ Anyway I recommend you to import GatherMate nodes
 
 ********************************************************************************************************************************************************************************
 
-d
+HOW TO EDIT ROUTES
+
+      //Editar rutas
+      
+![](https://i.gyazo.com/b2d0d69d470added50044c17b850cde9.mp4)
