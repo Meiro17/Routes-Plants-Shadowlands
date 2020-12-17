@@ -31,11 +31,11 @@ ROUTES:
       Anyway I recommend you to import GatherMate nodes
       Igualmente te recomiendo importar los nodos de GatherMate
 
-![alt text](https://i.gyazo.com/49e86f4863ff6a97b4d98fe611a19a22.png)
+![](Crear_Rutas.gif)
 
 ********************************************************************************************************************************************************************************
 
       HOW TO EDIT ROUTES
       Editar rutas
       
-![](creaate.gif)![](creaate.gif)
+![](Editar_Rutas)
